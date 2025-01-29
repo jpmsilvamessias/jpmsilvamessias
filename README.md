@@ -32,8 +32,8 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/jpmsilvamessias" target="_blank">
-    <img src="https://raw.githubusercontent.com/jpmsilvamessias/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/joaopedromessiah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
